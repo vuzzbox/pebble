@@ -1,0 +1,27 @@
+{
+    "friendlyVersion": "dev_0.0",
+    "versionDefName": "APP_RESOURCES",
+
+    "media": [
+    {
+      "type":"png",
+      "defName":"IMAGE_BACKGROUND",
+      "file":"images/modern_decimal_background.png"
+    },
+    {
+      "type":"png",
+      "defName":"IMAGE_MENU_ICON",
+      "file":"images/modern_logo.png"
+    },
+    {
+       "type": "font",
+       "defName": "FONT_DIGITALDREAM_NARROW_12",
+       "file": "fonts/DIGITALDREAMNARROW.ttf"
+    },
+    {
+       "type": "font",
+       "defName": "FONT_ORBITRON_MEDIUM_12",
+       "file": "fonts/orbitron-medium.otf"
+    }
+    ]
+}
